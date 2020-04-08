@@ -1,4 +1,4 @@
-# NPCRotate
+# NPCRotation
 This Plugin makes your NPCs on Nuklit look on you.
 
 # How to
