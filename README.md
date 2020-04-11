@@ -14,8 +14,4 @@ Feel free to create an issue.
 
 *This plugin was made for the German Minecraft: Bedrock Edition Network AdvancedCraft.net.*
 
-[Join](https://join.advancedcraft.net)
-
-[Website](https://advancedcraft.net)
-
-[Discord](https://discord.advancedcraft.net)
+[Join](https://join.advancedcraft.net) | [Website](https://advancedcraft.net) | [Discord](https://discord.advancedcraft.net)
